@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Coelina.PdfDatei">
+    <Position X="9.25" Y="2.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAKAAACANIAhQAAQIgBAAgAIQAQCYAEAACAA=</HashCode>
+      <FileName>PdfDatei.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Nachricht">
+    <Position X="4" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AEARsAAAAGIA0gQAACihAAAIDCCAAAACEAAgAAAEggk=</HashCode>
+      <FileName>Nachricht.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Nachrichten">
+    <Position X="6.75" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAACAAAAAAAAAAAAAAAEABAIAAQAAAI=</HashCode>
+      <FileName>Nachrichten.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.SmtpEinstellungen">
+    <Position X="1.25" Y="1.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAEBIAAAAAAAAAAAEAABAAAAIACACAAAAAAAAAAAgAI=</HashCode>
+      <FileName>SmtpEinstellungen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.RegulärerAusdruck">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAwAAAABAAACAAAAIAABAAAgAgAAAAAAAAAAAgA=</HashCode>
+      <FileName>RegulärerAusdruck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.ReguläreAusdrücke">
+    <Position X="14.25" Y="1.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ReguläreAusdrücke.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Program" Collapsed="true">
+    <Position X="4.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Properties.Settings">
+    <Position X="12.75" Y="4.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAm0gVAIgEAAEEICACIQJQnUMNACAAwgBAfkAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.GlobaleEinstellungen">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAAIAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.MailProvider">
+    <Position X="1" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAAAAAEAARBAQAAACACAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MailProvider.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Alias">
+    <Position X="7" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAKIA0gAAAAAQAAQAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Alias.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.AliasListe">
+    <Position X="7.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAEAQAAAAAAAAQAAAAAAAIAAA=</HashCode>
+      <FileName>AliasListe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.Log">
+    <Position X="9.25" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AUAQAAGAQP8AAACIIAAAAAABBAgAOAAAEAQAAEEAIAA=</HashCode>
+      <FileName>Log.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Coelina.LogListe">
+    <Position X="12.25" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>LogListe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
